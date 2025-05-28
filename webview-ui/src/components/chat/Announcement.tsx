@@ -52,7 +52,7 @@ const Announcement = ({ version, hideAnnouncement }: AnnouncementProps) => {
 					experience.
 				</li>
 				<li>
-					<b>Nebius AI Studio:</b> Added Nebius AI Studio as a new provider. (Thanks @Aktsvigun!)
+					<b>Nebius AI Studio:</b> Added Nebius AI Studio as a new provider.
 				</li>
 			</ul>
 			<Accordion isCompact className="pl-0">
@@ -81,7 +81,7 @@ const Announcement = ({ version, hideAnnouncement }: AnnouncementProps) => {
 						</li>
 						<li>
 							<b>New User Experience:</b> Special components and guidance for new users to help them get started
-							with Cline.
+							with Visku AI.
 						</li>
 						<li>
 							<b>UI Improvements:</b> Fixed loading states and improved settings organization for a smoother
@@ -91,7 +91,7 @@ const Announcement = ({ version, hideAnnouncement }: AnnouncementProps) => {
 							<b>Task Timeline:</b> See the history of your coding journey with a visual timeline of checkpoints.
 						</li>
 						<li>
-							<b>UX Improvements:</b> Type while Cline works, smarter auto-scrolling, and copy buttons for task
+							<b>UX Improvements:</b> Type while Visku AI works, smarter auto-scrolling, and copy buttons for task
 							headers and messages.
 						</li>
 						<li>

@@ -114,7 +114,7 @@ export const SETTINGS_TABS: SettingsTab[] = [
 	{
 		id: "about",
 		name: "About",
-		tooltipText: "About Cline",
+		tooltipText: "About Visku AI",
 		headerText: "About",
 		icon: Info,
 	},
@@ -615,7 +615,7 @@ const SettingsView = ({ onDone, targetSection }: SettingsViewProps) => {
 												Allow anonymous error and usage reporting
 											</VSCodeCheckbox>
 											<p className="text-xs mt-[5px] text-[var(--vscode-descriptionForeground)]">
-												Help improve Cline by sending anonymous usage data and error reports. No code,
+												Help improve Visku AI by sending anonymous usage data and error reports. No code,
 												prompts, or personal information are ever sent. See our{" "}
 												<VSCodeLink
 													href="https://docs.cline.bot/more-info/telemetry"

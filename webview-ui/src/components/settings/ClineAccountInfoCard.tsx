@@ -29,7 +29,7 @@ export const ClineAccountInfoCard = () => {
 			) : (
 				<div>
 					<VSCodeButton onClick={handleLogin} className="mt-0">
-						Sign Up with Cline
+						Sign Up with Visku AI
 					</VSCodeButton>
 				</div>
 			)}

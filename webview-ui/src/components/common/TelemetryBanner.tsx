@@ -63,7 +63,7 @@ const TelemetryBanner = () => {
 				✕
 			</CloseButton>
 			<div>
-				<strong>Help Improve Cline</strong>
+				<strong>Help Improve Visku AI</strong>
 				<i>
 					<br />
 					(and access experimental features)

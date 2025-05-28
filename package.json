@@ -1,6 +1,6 @@
 {
 	"name": "claude-dev",
-	"displayName": "Cline",
+	"displayName": "Visku AI",
 	"description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
 	"version": "3.17.5",
 	"icon": "assets/icons/icon.png",
@@ -8,7 +8,7 @@
 		"vscode": "^1.84.0"
 	},
 	"author": {
-		"name": "Cline Bot Inc."
+		"name": "Visku AI Bot Inc."
 	},
 	"license": "Apache-2.0",
 	"publisher": "saoudrizwan",
@@ -50,19 +50,19 @@
 			"activitybar": [
 				{
 					"id": "claude-dev-ActivityBar",
-					"title": "Cline (⌘+')",
+					"title": "Visku AI (⌘+')",
 					"icon": "assets/icons/icon.svg",
 					"when": "isMac"
 				},
 				{
 					"id": "claude-dev-ActivityBar",
-					"title": "Cline (Ctrl+')",
+					"title": "Visku AI (Ctrl+')",
 					"icon": "assets/icons/icon.svg",
 					"when": "isWindows"
 				},
 				{
 					"id": "claude-dev-ActivityBar",
-					"title": "Cline (Ctrl+')",
+					"title": "Visku AI (Ctrl+')",
 					"icon": "assets/icons/icon.svg",
 					"when": "isLinux || !isMac && !isWindows"
 				}
@@ -121,12 +121,12 @@
 			},
 			{
 				"command": "cline.addToChat",
-				"title": "Add to Cline",
+				"title": "Add to Visku AI",
 				"category": "Cline"
 			},
 			{
 				"command": "cline.addTerminalOutputToChat",
-				"title": "Add to Cline",
+				"title": "Add to Visku AI",
 				"category": "Cline"
 			},
 			{
@@ -136,18 +136,18 @@
 			},
 			{
 				"command": "cline.generateGitCommitMessage",
-				"title": "Generate Commit Message with Cline",
+				"title": "Generate Commit Message with Visku AI",
 				"category": "Cline",
 				"icon": "$(robot)"
 			},
 			{
 				"command": "cline.explainCode",
-				"title": "Explain with Cline",
+				"title": "Explain with Visku AI",
 				"category": "Cline"
 			},
 			{
 				"command": "cline.improveCode",
-				"title": "Improve with Cline",
+				"title": "Improve with Visku AI",
 				"category": "Cline"
 			}
 		],
@@ -266,7 +266,7 @@
 			]
 		},
 		"configuration": {
-			"title": "Cline",
+			"title": "Visku AI",
 			"properties": {}
 		}
 	},
